@@ -1,1 +1,14 @@
-Nothing to see, go away !
+[
+  {
+    "author": "SaiksyApo",
+    "name": "FlatDark",
+    "keyWords": "Modern,FlatDark,Flat,Dark,SaiksyApo",
+    "version": "2.41.0",
+    "dofusVersion": "2.41",
+    "description": "A dark, modern theme based on shaded of grey and blue.",
+    "url": "https://github.com/JeanDamien/FlatDark/raw/master/FlatDark.zip",
+    "previewUrl": "https://raw.githubusercontent.com/JeanDamien/FlatDark/master/darkSaiksyApoPreview.png",
+    "creationDate": "08/10/2016",
+    "modificationDate": "03/04/2017"
+  }
+]
